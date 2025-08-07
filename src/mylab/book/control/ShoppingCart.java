@@ -1,12 +1,12 @@
-package lab.book.control;
+package mylab.book.control;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import lab.book.entity.Magazine;
-import lab.book.entity.Novel;
-import lab.book.entity.Publication;
-import lab.book.entity.ReferenceBook;
+import mylab.book.entity.Magazine;
+import mylab.book.entity.Novel;
+import mylab.book.entity.Publication;
+import mylab.book.entity.ReferenceBook;
 
 public class ShoppingCart {
     private List<Publication> items;

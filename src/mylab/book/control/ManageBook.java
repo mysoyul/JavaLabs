@@ -1,9 +1,9 @@
-package lab.book.control;
+package mylab.book.control;
 
-import lab.book.entity.Magazine;
-import lab.book.entity.Novel;
-import lab.book.entity.Publication;
-import lab.book.entity.ReferenceBook;
+import mylab.book.entity.Magazine;
+import mylab.book.entity.Novel;
+import mylab.book.entity.Publication;
+import mylab.book.entity.ReferenceBook;
 
 public class ManageBook {
     public static void main(String[] args) {
