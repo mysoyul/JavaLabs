@@ -1,9 +1,9 @@
-package lab.library.control;
+package mylab.library.control;
 
 import java.util.List;
 
-import lab.library.entity.Book;
-import lab.library.entity.Library;
+import mylab.library.entity.Book;
+import mylab.library.entity.Library;
 
 /**
  * 도서관 관리 시스템 테스트를 위한 메인 클래스

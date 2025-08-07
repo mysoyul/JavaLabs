@@ -1,9 +1,9 @@
-package lab.bank.entity;
+package mylab.bank.entity;
 import java.util.ArrayList;
 import java.util.List;
 
-import lab.bank.exception.AccountNotFoundException;
-import lab.bank.exception.InsufficientBalanceException;
+import mylab.bank.exception.AccountNotFoundException;
+import mylab.bank.exception.InsufficientBalanceException;
 
 public class Bank {
     private List<Account> accounts;

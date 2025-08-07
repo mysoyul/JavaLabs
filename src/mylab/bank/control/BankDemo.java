@@ -1,10 +1,10 @@
-package lab.bank.control;
+package mylab.bank.control;
 
-import lab.bank.entity.Bank;
-import lab.bank.entity.SavingsAccount;
-import lab.bank.exception.AccountNotFoundException;
-import lab.bank.exception.InsufficientBalanceException;
-import lab.bank.exception.WithdrawalLimitExceededException;
+import mylab.bank.entity.Bank;
+import mylab.bank.entity.SavingsAccount;
+import mylab.bank.exception.AccountNotFoundException;
+import mylab.bank.exception.InsufficientBalanceException;
+import mylab.bank.exception.WithdrawalLimitExceededException;
 
 // BankDemo.java - 테스트 클래스
 public class BankDemo {

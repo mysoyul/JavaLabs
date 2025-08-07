@@ -1,7 +1,7 @@
-package lab.bank.entity;
+package mylab.bank.entity;
 
-import lab.bank.exception.InsufficientBalanceException;
-import lab.bank.exception.WithdrawalLimitExceededException;
+import mylab.bank.exception.InsufficientBalanceException;
+import mylab.bank.exception.WithdrawalLimitExceededException;
 
 public class CheckingAccount extends Account {
     private double withdrawalLimit;

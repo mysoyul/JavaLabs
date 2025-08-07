@@ -1,6 +1,6 @@
-package lab.bank.entity;
+package mylab.bank.entity;
 
-import lab.bank.exception.InsufficientBalanceException;
+import mylab.bank.exception.InsufficientBalanceException;
 
 // Account.java - 기본 계좌 클래스
 public class Account {

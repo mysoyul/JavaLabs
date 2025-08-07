@@ -1,4 +1,4 @@
-package lab.library.entity;
+package mylab.library.entity;
 /**
  * 도서 정보를 담는 클래스
  * 캡슐화를 적용하여 모든 멤버 변수는 private으로 선언
